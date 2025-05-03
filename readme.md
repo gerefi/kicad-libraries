@@ -1,6 +1,6 @@
 This folder contains gerEFI libaries. These files are used by KICAD in circuit board layouts. 
 
-As of Jan 2019 KiCad 4.0.7 is the offical KICAD for gerEFI's layouts. 
+As of Jan 2024 KiCad 4.0.7 is the offical KICAD for gerEFI's layouts. 
 
 Please note that you would need to fork https://github.com/gerefi/kicad-libraries if
 you would like to contribute to gerEFI component library - you cannot contribute to
